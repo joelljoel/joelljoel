@@ -16,7 +16,7 @@
 </div>
 
 
-  ![](https://komarev.com/ghpvc/?username=joelljoel&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=joelljoel&style=for-the-badge)
 
 <h1>
   hey there
