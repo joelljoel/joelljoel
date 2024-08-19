@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   
-  <a href="https://music.youtube.com/watch?v=dQw4w9WgXcQ&si=1pQjzwc7fW_8Yw3b">
+  <a href="https://youtu.be/xvFZjo5PgG0?feature=shared">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com">
